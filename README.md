@@ -1,7 +1,7 @@
 # Set card game
 
 ## Overview
-The project imlements a simple version of the game “Set” using Java Threads and Synchronization.
+The project implements a simple version of the game “Set” using Java Threads and Synchronization.
 
 ## Project Structure
 
